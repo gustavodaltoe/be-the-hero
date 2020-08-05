@@ -14,7 +14,7 @@
 The "Semana Omnistack" is an online event organized by [Rocketseat](https://rocketseat.com.br/), with exclusive and unprecedented content with duration of 5 days in sequence to develop an application from the ground with React, React Native and Node Js.
 The 11° event happened between 23/03/20 and 27/03/20 and brought the idea of creating an application to help to connect NGOs with people willing to support them with donations.
 
-[Layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0:1) on Figma.
+[Layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0:1) in Figma.
 
 ## Running the application
 Run `npm install`  at backend, frontend and mobile folders to install the dependencies.
@@ -35,7 +35,4 @@ Read the QR Code with your smartphone and use the [Expo](https://expo.io/) app t
 
 
 ## Application
-<div style="display: flex; justify-content: space-evenly; align-items: flex-start;">
-  <img src="./files/mobile-gif.gif" alt="mobile gif" style="width: 20%">
-  <img src="./files/web-gif.gif" alt="web gif" style="width: 70%">
-</div>
+<img src="./files/mobile-gif.gif" alt="mobile gif" width="20%"> <img src="./files/web-gif.gif" alt="web gif" width="75%">
